@@ -6,7 +6,11 @@
 2. 
     a. Which specialty had the most total number of claims (totaled over all drugs)?
 
+    Family Practice
+
     b. Which specialty had the most total number of claims for opioids?
+   
+    Nurse practitioners
 
     c. **Challenge Question:** Are there any specialties that appear in the prescriber table that have no associated prescriptions in the prescription table?
 
